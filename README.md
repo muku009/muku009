@@ -1,7 +1,8 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/3RbM4Pq/github-banner.png" width="100%" />
+  <img src="https://i.ibb.co/QrszdzQ/mukul-tech-banner.png" width="100%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Mukul Sharma</h1>
 <h3 align="center">Full Stack Developer | Laravel & Python Enthusiast</h3>
