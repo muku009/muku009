@@ -56,7 +56,7 @@
 - 🔭 Learning **Laravel**, **Python Automation**, and **Full Stack Web Development**
 - 💡 Enjoy creating tools, apps & solving problems  
 - 👨‍💻 Always improving and exploring new technologies  
-- 📫 Email: **your-email-here**
+- 📫 Email: mukulshar456@gmail.com
 
 ---
 
