@@ -9,7 +9,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Mukul+Sharma;Full+Stack+Web+Developer;Laravel+Developer;Python+Automation+Learner;I+Love+Building+Projects+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=362727&center=true&vCenter=true&width=600&lines=Hi+I'm+Mukul+Sharma;Full+Stack+Web+Developer;Laravel+Developer;Python+Automation+Learner;I+Love+Building+Projects+%F0%9F%92%BB" />
 </p>
 
 ---
