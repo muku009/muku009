@@ -1,7 +1,7 @@
 <!-- Top Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="banner.png" width="100%" />
-</p>
+</p> -->
 
 
 <h1 align="center">Hi 👋, I'm Mukul Sharma</h1>
